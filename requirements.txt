@@ -1,0 +1,6 @@
+# These are the required packages
+streamlit
+pandas
+sklearn
+numpy
+yfinance

@@ -1,0 +1,10 @@
+stock_symbols_sample = ["AAPL", "GOOGL", "MSFT", "AMZN", "JPM", "V", "JNJ", "PG", "NVDA",
+                        "TSLA", "UNH", "BAC", "DIS", "VZ", "INTC", "NFLX", "ADBE", "PYPL", "CRM",
+                        "IBM", "CSCO", "PFE", "ABT", "KO", "ABBV", "PEP", "CVX", "ACN", "QCOM",
+                        "CMCSA", "NKE", "TXN", "MDT", "ORCL", "WMT", "HD", "MRK", "AMGN", "XOM",
+                        "SBUX", "MO", "MMM", "BA", "COST", "MCD", "LMT", "PG", "T", "AXP",
+                        "UNP", "CAT", "DE", "LUV", "LOW", "USB", "BMY", "C", "WFC", "AAP",
+                        "CI", "AMAT", "CVS", "F", "TGT", "COP", "MET", "DHR", "MDLZ", "LLY",
+                        "TMO", "GM", "DUK", "SO", "AEP", "RTX", "GILD", "EMR", "ADP", "NEE",
+                        "ISRG", "VRTX", "BDX", "PLD", "BIIB", "TMUS", "PGR", "CME",
+                        "HON", "TJX", "MS"]

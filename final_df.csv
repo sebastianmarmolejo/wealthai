@@ -1,0 +1,93 @@
+,Symbol,Price,Company Name,Industry,Sector,Country,Recommendation,risk_level
+0,AAPL,177.3000030517578,Apple Inc.,Consumer Electronics,Technology,United States,Buy,Low
+1,GOOGL,123.66999816894533,Alphabet Inc.,Internet Content & Information,Communication Services,United States,Sell,Low
+2,MSFT,331.2099914550781,Microsoft Corporation,Software—Infrastructure,Technology,United States,Sell,Low
+3,AMZN,121.66000366210938,"Amazon.com, Inc.",Internet Retail,Consumer Cyclical,United States,Buy,Low
+4,JPM,137.4600067138672,JPMorgan Chase & Co.,Banks—Diversified,Financial Services,United States,Buy,Medium
+5,V,221.63999938964844,Visa Inc.,Credit Services,Financial Services,United States,Sell,Low
+6,JNJ,154.3699951171875,Johnson & Johnson,Drug Manufacturers—General,Healthcare,United States,Buy,Low
+7,PG,143.17999267578125,The Procter & Gamble Company,Household & Personal Products,Consumer Defensive,United States,Sell,Low
+8,PG,143.17999267578125,The Procter & Gamble Company,Household & Personal Products,Consumer Defensive,United States,Sell,Low
+9,PG,143.17999267578125,The Procter & Gamble Company,Household & Personal Products,Consumer Defensive,United States,Sell,Low
+10,PG,143.17999267578125,The Procter & Gamble Company,Household & Personal Products,Consumer Defensive,United States,Sell,Low
+11,NVDA,401.1099853515625,NVIDIA Corporation,Semiconductors,Technology,United States,Buy,High
+12,TSLA,201.16000366210935,"Tesla, Inc.",Auto Manufacturers,Consumer Cyclical,United States,Buy,High
+13,UNH,479.8500061035156,UnitedHealth Group Incorporated,Healthcare Plans,Healthcare,United States,Sell,Low
+14,BAC,28.26000022888184,Bank of America Corporation,Banks—Diversified,Financial Services,United States,Sell,Medium
+15,DIS,87.81999969482422,The Walt Disney Company,Entertainment,Communication Services,United States,Sell,Low
+16,VZ,34.900001525878906,Verizon Communications Inc.,Telecom Services,Communication Services,United States,Sell,Low
+17,INTC,29.989999771118164,Intel Corporation,Semiconductors,Technology,United States,Buy,Medium
+18,NFLX,392.9800109863281,"Netflix, Inc.",Entertainment,Communication Services,United States,Buy,Low
+19,ADBE,417.2099914550781,Adobe Inc.,Software—Infrastructure,Technology,United States,Buy,Low
+20,PYPL,62.04999923706055,"PayPal Holdings, Inc.",Credit Services,Financial Services,United States,Buy,Medium
+21,CRM,218.8699951171875,"Salesforce, Inc.",Software—Application,Technology,United States,Buy,Medium
+22,IBM,129.47999572753906,International Business Machines Corporation,Information Technology Services,Technology,United States,Buy,Low
+23,CSCO,50.16999816894531,"Cisco Systems, Inc.",Communication Equipment,Technology,United States,Buy,Low
+24,PFE,37.0099983215332,Pfizer Inc.,Drug Manufacturers—General,Healthcare,United States,Sell,Low
+25,ABT,101.70999908447266,Abbott Laboratories,Medical Devices,Healthcare,United States,Sell,Low
+26,KO,59.77999877929688,The Coca-Cola Company,Beverages—Non-Alcoholic,Consumer Defensive,United States,Sell,Low
+27,ABBV,136.44000244140625,AbbVie Inc.,Drug Manufacturers—General,Healthcare,United States,Sell,Low
+28,PEP,181.6100006103516,"PepsiCo, Inc.",Beverages—Non-Alcoholic,Consumer Defensive,United States,Sell,Low
+29,CVX,153.1199951171875,Chevron Corporation,Oil & Gas Integrated,Energy,United States,Sell,Medium
+30,ACN,308.42999267578125,Accenture plc,Information Technology Services,Technology,Ireland,Buy,Low
+31,QCOM,116.0,QUALCOMM Incorporated,Semiconductors,Technology,United States,Buy,Medium
+32,CMCSA,39.15999984741211,Comcast Corporation,Telecom Services,Communication Services,United States,Sell,Low
+33,NKE,106.5199966430664,"NIKE, Inc.",Footwear & Accessories,Consumer Cyclical,United States,Sell,Low
+34,TXN,176.5500030517578,Texas Instruments Incorporated,Semiconductors,Technology,United States,Buy,Low
+35,MDT,82.5,Medtronic plc,Medical Devices,Healthcare,Ireland,Buy,Low
+36,ORCL,105.1500015258789,Oracle Corporation,Software—Infrastructure,Technology,United States,Buy,Low
+37,WMT,146.05999755859375,Walmart Inc.,Discount Stores,Consumer Defensive,United States,Sell,Low
+38,HD,292.3999938964844,"The Home Depot, Inc.",Home Improvement Retail,Consumer Cyclical,United States,Sell,Low
+39,MRK,109.16999816894533,"Merck & Co., Inc.",Drug Manufacturers—General,Healthcare,United States,Sell,Low
+40,AMGN,218.52999877929688,Amgen Inc.,Drug Manufacturers—General,Healthcare,United States,Buy,Low
+41,XOM,104.04000091552734,Exxon Mobil Corporation,Oil & Gas Integrated,Energy,United States,Sell,Medium
+42,SBUX,97.75,Starbucks Corporation,Restaurants,Consumer Cyclical,United States,Sell,Low
+43,MO,44.31999969482422,"Altria Group, Inc.",Tobacco,Consumer Defensive,United States,Sell,Low
+44,MMM,96.05999755859376,3M Company,Conglomerates,Industrials,United States,Sell,Low
+45,BA,204.69000244140625,The Boeing Company,Aerospace & Defense,Industrials,United States,Buy,High
+46,COST,508.0299987792969,Costco Wholesale Corporation,Discount Stores,Consumer Defensive,United States,Buy,Low
+47,MCD,284.9200134277344,McDonald's Corporation,Restaurants,Consumer Cyclical,United States,Sell,Low
+48,LMT,447.9700012207031,Lockheed Martin Corporation,Aerospace & Defense,Industrials,United States,Sell,Low
+49,T,15.640000343322754,AT&T Inc.,Telecom Services,Communication Services,United States,Buy,Low
+50,AXP,158.00999450683594,American Express Company,Credit Services,Financial Services,United States,Buy,Medium
+51,UNP,194.1999969482422,Union Pacific Corporation,Railroads,Industrials,United States,Buy,Low
+52,CAT,209.8999938964844,Caterpillar Inc.,,,,Sell,Low
+53,DE,350.6300048828125,Deere & Company,Farm & Heavy Construction Machinery,Industrials,United States,Sell,Low
+54,LUV,29.799999237060547,Southwest Airlines Co.,Airlines,Industrials,United States,Buy,High
+55,LOW,205.6999969482422,"Lowe's Companies, Inc.",Home Improvement Retail,Consumer Cyclical,United States,Sell,Medium
+56,USB,30.65999984741211,U.S. Bancorp,Banks—Regional,Financial Services,United States,Sell,Medium
+57,BMY,63.709999084472656,Bristol-Myers Squibb Company,Drug Manufacturers—General,Healthcare,United States,Sell,Low
+58,C,44.70000076293945,Citigroup Inc.,Banks—Diversified,Financial Services,United States,Buy,High
+59,WFC,40.97999954223633,Wells Fargo & Company,Banks—Diversified,Financial Services,United States,Sell,Medium
+60,AAP,112.1999969482422,"Advance Auto Parts, Inc.",Specialty Retail,Consumer Cyclical,United States,Buy,Low
+61,CI,242.63999938964844,The Cigna Group,Healthcare Plans,Healthcare,United States,Sell,Medium
+62,AMAT,136.57000732421875,"Applied Materials, Inc.",Semiconductor Equipment & Materials,Technology,United States,Buy,High
+63,CVS,67.1500015258789,CVS Health Corporation,Healthcare Plans,Healthcare,United States,Sell,Low
+64,F,12.59000015258789,Ford Motor Company,Auto Manufacturers,Consumer Cyclical,United States,Buy,Medium
+65,TGT,133.83999633789062,Target Corporation,Discount Stores,Consumer Defensive,United States,Sell,Low
+66,COP,101.1999969482422,ConocoPhillips,Oil & Gas E&P,Energy,United States,Sell,High
+67,MET,51.650001525878906,"MetLife, Inc.",Insurance—Life,Financial Services,United States,Sell,Medium
+68,DHR,227.17999267578125,Danaher Corporation,Diagnostics & Research,Healthcare,United States,Sell,Low
+69,MDLZ,72.37000274658203,"Mondelez International, Inc.",Confectioners,Consumer Defensive,United States,Sell,Low
+70,LLY,427.239990234375,Eli Lilly and Company,Drug Manufacturers—General,Healthcare,United States,Buy,Low
+71,TMO,514.219970703125,Thermo Fisher Scientific Inc.,Diagnostics & Research,Healthcare,United States,Sell,Low
+72,GM,33.36000061035156,General Motors Company,Auto Manufacturers,Consumer Cyclical,United States,Buy,High
+73,DUK,88.01000213623047,Duke Energy Corporation,Utilities—Regulated Electric,Utilities,United States,Sell,Low
+74,SO,69.83000183105469,The Southern Company,Utilities—Regulated Electric,Utilities,United States,Buy,Low
+75,AEP,81.79000091552734,"American Electric Power Company, Inc.",Utilities—Regulated Electric,Utilities,United States,Sell,Low
+76,RTX,92.81999969482422,Raytheon Technologies Corporation,Aerospace & Defense,Industrials,United States,Sell,Medium
+77,GILD,76.33000183105469,"Gilead Sciences, Inc.",Drug Manufacturers—General,Healthcare,United States,Sell,Low
+78,EMR,78.38999938964844,Emerson Electric Co.,Specialty Industrial Machinery,Industrials,United States,Sell,Medium
+79,ADP,210.1199951171875,"Automatic Data Processing, Inc.",Staffing & Employment Services,Industrials,United States,Sell,Low
+80,NEE,72.69000244140625,"NextEra Energy, Inc.",Utilities—Regulated Electric,Utilities,United States,Sell,Low
+81,ISRG,307.07000732421875,"Intuitive Surgical, Inc.",Medical Instruments & Supplies,Healthcare,United States,Buy,Low
+82,VRTX,325.29998779296875,Vertex Pharmaceuticals Incorporated,Biotechnology,Healthcare,United States,Sell,Low
+83,BDX,238.38999938964844,"Becton, Dickinson and Company",Medical Instruments & Supplies,Healthcare,United States,Sell,Low
+84,PLD,124.30999755859376,"Prologis, Inc.",REIT—Industrial,Real Estate,United States,Sell,Low
+85,BIIB,298.69000244140625,Biogen Inc.,Drug Manufacturers—General,Healthcare,United States,Buy,High
+86,TMUS,135.1199951171875,"T-Mobile US, Inc.",Telecom Services,Communication Services,United States,Sell,Low
+87,PGR,128.07000732421875,The Progressive Corporation,Insurance—Property & Casualty,Financial Services,United States,Sell,Low
+88,CME,178.1999969482422,CME Group Inc.,Financial Data & Stock Exchanges,Financial Services,United States,Buy,Low
+89,HON,194.5500030517578,Honeywell International Inc.,Conglomerates,Industrials,United States,Buy,Low
+90,TJX,76.76000213623047,"The TJX Companies, Inc.",Apparel Retail,Consumer Cyclical,United States,Sell,Medium
+91,MS,83.41999816894531,Morgan Stanley,Capital Markets,Financial Services,United States,Sell,Medium
